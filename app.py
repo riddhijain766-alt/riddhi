@@ -1,5 +1,3 @@
-!pip install pandas openai streamlit PyPDF2 plotly
-
 import requests
 
 # Publicly available Reliance annual report
